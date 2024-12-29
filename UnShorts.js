@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         UnShorten -
+// @name         UnShorts
 // @namespace    http://tampermonkey.net/
 // @version      29.12.2024
 // @description  Simple script for replace all shorts links on youtube page.
